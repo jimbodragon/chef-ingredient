@@ -48,3 +48,5 @@ Policyfile.lock.json
 # vagrant stuff
 .vagrant/
 .vagrant.d/
+
+foodcritic.log
